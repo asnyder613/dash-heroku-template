@@ -1,5 +1,8 @@
 gunicorn>=20.0.4
 plotly>=2.0.9
+plotly.express
+plotly.graph_objects
+plotly.figure_factor
 dash>=1.13.4
 dash-renderer>=1.5.1
 dash-html-components>=1.0.3
